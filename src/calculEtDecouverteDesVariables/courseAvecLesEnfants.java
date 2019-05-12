@@ -2,15 +2,19 @@ package calculEtDecouverteDesVariables;
 import static algorea.Robot.*;
 public class courseAvecLesEnfants {
 
-        public static void main(String[] args) {
-            int anneau =1;
-            for (int loop = 1; loop <= 10; loop = loop+1) {
+    public static void main(String[] args) {
+        int anneau = 1;
+        for (int loop1 = 1; loop1 <= 10; loop1 = loop1 + 1) {
+            for (int loop2 = 1; loop2 <= anneau; loop2 = loop2 + 1) {
                 droite();
-                ramasser();
-                gauche();
-                deposer();
-                droite();
-                anneau = anneau + 1 ;
             }
+            ramasser();
+            for (int loop2 = 1; loop2 <= anneau; loop2 = loop2 + 1) {
+                gauche();
+            }
+            deposer();
+            anneau = anneau + 1;
         }
+
+    }
 }
