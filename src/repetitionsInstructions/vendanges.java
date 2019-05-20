@@ -1,4 +1,5 @@
 package repetitionsInstructions;
+/*
 import static algorea .Robot.*;
 public class vendanges {
      public static void main (String[] args) {
@@ -15,6 +16,6 @@ public class vendanges {
                 }
             }
      }
-}
+}*/
 
 

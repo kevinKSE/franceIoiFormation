@@ -1,5 +1,5 @@
 package repetitionsInstructions;
-
+/*
 import static algorea.Robot.*;
 
 public class leSecretDuGoma {
@@ -15,4 +15,4 @@ public class leSecretDuGoma {
             deposer();
         }
     }
-}
+}*/

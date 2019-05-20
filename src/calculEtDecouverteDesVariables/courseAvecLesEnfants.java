@@ -1,4 +1,5 @@
 package calculEtDecouverteDesVariables;
+/*
 import static algorea.Robot.*;
 public class courseAvecLesEnfants {
 
@@ -17,4 +18,4 @@ public class courseAvecLesEnfants {
         }
 
     }
-}
+}*/

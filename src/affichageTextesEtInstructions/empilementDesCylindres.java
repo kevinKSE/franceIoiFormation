@@ -1,4 +1,5 @@
 package affichageTextesEtInstructions;
+/*
 import static algorea.robot.*;
     public class empilementDesCylindres {
         public static void main (String[] args) {
@@ -21,4 +22,4 @@ import static algorea.robot.*;
             deplacer(2, 3);
          }
 
-    }
+    }*/

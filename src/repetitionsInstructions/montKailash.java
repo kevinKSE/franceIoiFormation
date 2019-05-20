@@ -1,5 +1,5 @@
 package repetitionsInstructions;
-
+/*
 import static algorea.Robot.*;
 
 public class montKailash {
@@ -22,5 +22,5 @@ public class montKailash {
             }
         }
     }
-}
+}*/
 

@@ -1,5 +1,5 @@
 package affichageTextesEtInstructions;
-
+/*
 import static algorea.Robot.*;
 
 public class dansLeFourré {
@@ -15,4 +15,4 @@ public class dansLeFourré {
         droite();
 
      }
-}
+}*/

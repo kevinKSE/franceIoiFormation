@@ -1,5 +1,5 @@
 package repetitionsInstructions;
-
+/*
 import static algorea.Robot.*;
 
 public class leGrandEvenement {
@@ -29,4 +29,4 @@ public class leGrandEvenement {
             }
         }
     }
-}
+}*/

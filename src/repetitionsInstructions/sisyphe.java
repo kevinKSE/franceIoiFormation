@@ -1,5 +1,5 @@
 package repetitionsInstructions;
-
+/*
 import static algorea.Robot.*;
 
 public class sisyphe {
@@ -18,4 +18,4 @@ public class sisyphe {
         }
     }
 
-}
+}*/

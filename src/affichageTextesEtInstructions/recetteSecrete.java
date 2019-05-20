@@ -1,5 +1,5 @@
 package affichageTextesEtInstructions;
-
+/*
 public class recetteSecrete {
     import static algorea.Robot.*;
     class Main {
@@ -12,4 +12,4 @@ public class recetteSecrete {
             transferer(5, 3);
         }
     }
-}
+}*/
