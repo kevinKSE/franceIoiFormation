@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bd502b4-baf6-4964-81d1-e2507005599f" name="Default Changelist" comment="">
+    <list default="true" id="6bd502b4-baf6-4964-81d1-e2507005599f" name="Default Changelist" comment="&#10;chapitre lectureDeLentree ajout exercice 7">
+      <change afterPath="$PROJECT_DIR$/src/lectureDeLentree/laGrandeBraderie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectureDeLentree/JeuDeCalculMental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectureDeLentree/JeuDeCalculMental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FRANCE-IOI/lectureDeLentree/graduationDeThermomètres.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FRANCE-IOI/lectureDeLentree/graduationDeThermomètres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectureDeLentree/graduationDeThermomètres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectureDeLentree/graduationDeThermomètres.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,31 +17,16 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FRANCE-IOI" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/graduationDeThermomètres.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/JeuDeCalculMental.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/calculatrice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="357">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -94,9 +81,10 @@
         <option value="$PROJECT_DIR$/src/lectureDeLentree/retraiteSpirituelle.java" />
         <option value="$PROJECT_DIR$/src/lectureDeLentree/ageDesPetitsEnfants.java" />
         <option value="$PROJECT_DIR$/src/lectureDeLentree/encoreDesPunitions.java" />
-        <option value="$PROJECT_DIR$/src/lectureDeLentree/graduationDeThermomètres.java" />
         <option value="$PROJECT_DIR$/src/lectureDeLentree/calculatrice.java" />
         <option value="$PROJECT_DIR$/src/lectureDeLentree/JeuDeCalculMental.java" />
+        <option value="$PROJECT_DIR$/src/lectureDeLentree/laGrandeBraderie.java" />
+        <option value="$PROJECT_DIR$/src/lectureDeLentree/graduationDeThermomètres.java" />
       </list>
     </option>
   </component>
@@ -107,11 +95,32 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope">
+        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="FRANCE-IOI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FRANCE-IOI" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="FRANCE-IOI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FRANCE-IOI" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="FRANCE-IOI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FRANCE-IOI" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lectureDeLentree" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
@@ -149,7 +158,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JeuDeCalculMental">
+  <component name="RunManager" selected="Application.graduationDeThermomètres">
     <configuration name="JeuDeCalculMental" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lectureDeLentree.JeuDeCalculMental" />
       <module name="FRANCE-IOI" />
@@ -210,19 +218,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="encoreDesPunitions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lectureDeLentree.encoreDesPunitions" />
-      <module name="FRANCE-IOI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lectureDeLentree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="graduationDeThermomètres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lectureDeLentree.graduationDeThermomètres" />
       <module name="FRANCE-IOI" />
@@ -236,20 +231,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="laGrandeBraderie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectureDeLentree.laGrandeBraderie" />
+      <module name="FRANCE-IOI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectureDeLentree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.encoreDesPunitions" />
       <item itemvalue="Application.graduationDeThermomètres" />
       <item itemvalue="Application.JeuDeCalculMental" />
       <item itemvalue="Application.calculatrice" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.laGrandeBraderie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.graduationDeThermomètres" />
+        <item itemvalue="Application.laGrandeBraderie" />
         <item itemvalue="Application.JeuDeCalculMental" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.calculatrice" />
-        <item itemvalue="Application.graduationDeThermomètres" />
-        <item itemvalue="Application.encoreDesPunitions" />
       </list>
     </recent_temporary>
   </component>
@@ -313,10 +321,17 @@
       <option name="project" value="LOCAL" />
       <updated>1558371742326</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&#10;chapitre lectureDeLentree ajout exercice 6">
+      <created>1558452821442</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558452821442</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -329,13 +344,13 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.245625" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49932706" visible="true" weight="0.2525707" />
+      <window_info id="Structure" order="1" sideWeight="0.50067294" side_tool="true" weight="0.2525707" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50067294" side_tool="true" weight="0.2525707" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.485625" weight="0.32941177" />
@@ -343,10 +358,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993573" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993573" weight="0.32839838" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.514375" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.499375" weight="0.32941177" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.463125" weight="0.35816994" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.499375" weight="0.32839838" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.463125" visible="true" weight="0.3580081" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -368,7 +383,9 @@
     <MESSAGE value="ajout course avec les enfants et construction pyramide" />
     <MESSAGE value="mise en commentaires des classes posants pb dans intellij&#10;fin des exos chapitre calacul &amp; decouvertes des variables" />
     <MESSAGE value="&#10;chapitre lectureDeLentree +5 1ers exercices" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;chapitre lectureDeLentree +5 1ers exercices" />
+    <MESSAGE value="&#10;chapitre lectureDeLentree ajout exercice 6" />
+    <MESSAGE value="&#10;chapitre lectureDeLentree ajout exercice 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;chapitre lectureDeLentree ajout exercice 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/affichageTextesEtInstructions/04dansLeFourré.java" />
@@ -616,24 +633,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/graduationDeThermomètres.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/calculatrice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/calculatrice.java" />
     <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/JeuDeCalculMental.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/laGrandeBraderie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectureDeLentree/graduationDeThermomètres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>

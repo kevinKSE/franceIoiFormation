@@ -29,7 +29,10 @@ public class graduationDeThermomètres {
     static Scanner entree = new Scanner(System.in);
 
     public static void main(String[] args) {
+
+        System.out.println("tempMin");
         int tempMin = entree.nextInt();
+        System.out.println("tempMax");
         int tempMax = entree.nextInt();
         int temperature = tempMin;
         for (int loop = 1; loop <= tempMax - tempMin + 1; loop = loop + 1) {
